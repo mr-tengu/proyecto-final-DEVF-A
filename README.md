@@ -64,5 +64,5 @@ O abre la carpeta manualmente desde VS Code.
 ## 👨‍💻 Autor
 
 **Jose de Jesus Zarate**\
-Estudiante de Ingeniería en Sistemas Computacionales\
+Egresado de Ingeniería en Sistemas Computacionales\
 Enfocado en desarrollo y ciberseguridad 🚀
